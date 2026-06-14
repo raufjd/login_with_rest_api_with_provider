@@ -70,7 +70,7 @@ class _LoginScreenState extends State<LoginScreen> {
             padding: const EdgeInsets.symmetric(horizontal: 20),
             child: TextFormField(
               obscureText: true,
-              keyboardType: TextInputType.emailAddress,
+              keyboardType: TextInputType.text,
               controller: passwword,
               decoration: InputDecoration(
                 labelText: 'Password',
