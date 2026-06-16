@@ -64,7 +64,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           ),
           SizedBox(
-            height: 20,
+            height: 30,
           ),
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 20),
@@ -105,7 +105,7 @@ class _LoginScreenState extends State<LoginScreen> {
             ),
           ),
           SizedBox(
-            height: 50,
+            height: 70,
           ),
           Padding(
             padding: const EdgeInsets.symmetric(
